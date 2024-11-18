@@ -1,0 +1,6 @@
+FastText_all.train
+FastText_all.val
+FastText_best_answer.train
+FastText_best_answer.val
+FastText_question.train
+FastText_question.val
