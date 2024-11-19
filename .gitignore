@@ -9,3 +9,12 @@ FastText_question_emd.val
 question_train_emd.csv
 question_val_emd.csv
 question_emd_model.bin
+all_emd_Logistic_Regression.bin
+all_emd_model.bin
+all_emd_Naive_Bayes_(TF-IDF).bin
+all_emd_Random_Forest.bin
+all_train_emd.csv
+all_val_emd.csv
+emd_all_results.csv
+FastText_all_emd.train
+FastText_all_emd.val
