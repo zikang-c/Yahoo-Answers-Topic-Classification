@@ -18,3 +18,4 @@ all_val_emd.csv
 emd_all_results.csv
 FastText_all_emd.train
 FastText_all_emd.val
+best_answer_model.bin
