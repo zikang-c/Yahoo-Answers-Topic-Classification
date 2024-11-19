@@ -4,3 +4,8 @@ FastText_best_answer.train
 FastText_best_answer.val
 FastText_question.train
 FastText_question.val
+FastText_question_emd.train
+FastText_question_emd.val
+question_train_emd.csv
+question_val_emd.csv
+question_emd_model.bin
