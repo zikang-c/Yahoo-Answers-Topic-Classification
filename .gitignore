@@ -19,3 +19,4 @@ emd_all_results.csv
 FastText_all_emd.train
 FastText_all_emd.val
 best_answer_model.bin
+split_data_v2.pkl
