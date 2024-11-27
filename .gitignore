@@ -20,3 +20,9 @@ FastText_all_emd.train
 FastText_all_emd.val
 best_answer_model.bin
 split_data_v2.pkl
+FastText_all_emd_no_url.train
+FastText_all_emd_no_url.val
+ft_model_dim100.bin
+ft_model.bin
+X_train_emb.npy
+X_val_emb.npy
